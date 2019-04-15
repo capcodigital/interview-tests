@@ -1,4 +1,5 @@
-![alt text](https://raw.githubusercontent.com/capcodigital/interview-tests/master/logo.jpg)
+<center><img src="logo.jpg" width="40%"></center>
+
 # Capco Interview Test
 Please select the level (Associate or Consultant) you are applying for and choose a preferred language to complete the assessment with.
 
