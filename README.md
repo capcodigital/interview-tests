@@ -18,7 +18,7 @@ Moreover, other than code quality and standards adopted, we also examine each ca
 
 ## Instructions
 
-Please select the level (Associate or Consultant) you are applying for and choose a preferred language to complete the assessment with.
+Please select the level (Associate or Consultant) you are applying for and choose a preferred programming language to complete the assessment with.
 
 ## Questions
 
