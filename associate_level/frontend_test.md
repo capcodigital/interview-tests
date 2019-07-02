@@ -6,7 +6,7 @@ An example of the API below.
 
 The API is located at the below address:
 
-[https://us-central1-ornate-apricot-220209.cloudfunctions.net/CodingTestFrontEnd-API](https://us-central1-ornate-apricot-220209.cloudfunctions.net/CodingTestFrontEnd-API)
+[https://us-central1-capco-243515.cloudfunctions.net/front-end-test-api](https://us-central1-capco-243515.cloudfunctions.net/front-end-test-api)
 
 It accepts a JSON request of the following format:
 

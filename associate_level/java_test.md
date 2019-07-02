@@ -7,7 +7,9 @@ _You will be examined on below_
 - Usage of Spring Boot.
 - API knowledge
 - Java 8 and best practices
-- Test cases ( Edge cases ), TDD or BDD.
+- Test cases :
+  - Edge cases
+  - (bonus) Unit tests
 
 **Problem statement 2 (Optional)**
 

@@ -8,7 +8,9 @@ _You will be examined on below_
 
 - API knowledge
 - NET MVC (C#) and best practices
-- Test cases (Edge cases), TDD or BDD.
+- Test cases :
+  - Edge cases
+  - (bonus) Unit tests
 
 **Bonus problem statement (Optional)**
 

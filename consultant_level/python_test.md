@@ -8,7 +8,8 @@ _You will be examined on below_
 
 - API knowledge
 - Python 3 and best practices
-- Test cases (Edge cases), TDD or BDD.
+- Test cases :
+  - Unit tests
 
 **Problem Statement 2**
 
