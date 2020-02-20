@@ -1,27 +1,30 @@
 **Currency Conversion Front-End**
 
-We have set up simple API that returns a JSON array of currency version rates for a given input value in native currency. Assume for the sake of this, the native currency is GBP, upon sending a request amount to the AP will result in you receiving rates for USD and EUR.
+We have a simple API that returns a JSON array of currency version rates. 
 
-An example of the API below.
+An example of the API below :
 
-The API is located at the below address:
-
-[https://us-central1-capco-243515.cloudfunctions.net/front-end-test-api](https://us-central1-capco-243515.cloudfunctions.net/front-end-test-api)
-
-It accepts a JSON request of the following format:
-
-_{
-          &quot;amount&quot;: &quot;1.434&quot;
-}_
+GET [https://api.exchangeratesapi.io/latest](https://api.exchangeratesapi.io/latest)
 
 The API will send a response in the format:
 
-_{
-         &quot;USD&quot;: 1.87854,
-         &quot;EUR&quot;: 1.6634399999999998
-}_
+          {
+            "base": "EUR",
+            "date": "2018-04-08",
+            "rates": {
+              "CAD": 1.565,
+              "CHF": 1.1798,
+              "GBP": 0.87295,
+              "SEK": 10.2983,
+              "EUR": 1.092,
+              "USD": 1.2234,
+              ...
+            }
+          }
 
-We would like you to use HTML, CSS and JavaScript to send a request to the API, read the API response and display it in an organized way. In addition, you should add in some sort of sorting mechanic to the front-end. Feel free to use any frameworks (if any) you would like to achieve the task. Styling is not of importance.
+We would like you to use HTML, CSS and JavaScript to send a request to the API, read the API response, store the exchange rates, and propose an web interface to convert from GBP to USD using those stored exchange rates.
+
+Feel free to use any frameworks (if any) you would like to achieve the task. Styling is not of importance.
 
 You will be examined on:
 
